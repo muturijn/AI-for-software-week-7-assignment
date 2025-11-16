@@ -1,0 +1,5 @@
+{
+  "name": "AI Fairness Auditor for COMPAS Dataset",
+  "description": "An interactive web application that uses AI to analyze and visualize racial bias within the COMPAS recidivism dataset, generating key fairness metrics and a detailed report.",
+  "requestFramePermissions": []
+}
